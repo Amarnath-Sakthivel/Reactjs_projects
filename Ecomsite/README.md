@@ -71,12 +71,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 ## Sample images
+
+### Login Page
+![image](https://user-images.githubusercontent.com/63423850/232205519-32f5fd25-263e-469d-b322-bef917953100.png)
+
 ### Home page
 ![image](https://user-images.githubusercontent.com/63423850/232205280-4c5f663d-11cf-422f-ab3f-1b8a73226735.png)
 
 ### Single Product page
 ![image](https://user-images.githubusercontent.com/63423850/232205355-7b913515-0ad3-4a22-b41e-02c9155677a1.png)
 
-### All products
+### All products page
 ![image](https://user-images.githubusercontent.com/63423850/232205387-2ab44c02-2717-4078-9c63-2b29592c36eb.png)
 
