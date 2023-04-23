@@ -69,18 +69,31 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+### `JSON-Server`
+### CartProduct
+`npx json-server --watch CartProduct.json --port 8080`
+### User
+`npx json-server --watch users.json --port 8081`
+
 
 ## Sample images
 
 ### Login Page
-![image](https://user-images.githubusercontent.com/63423850/232205519-32f5fd25-263e-469d-b322-bef917953100.png)
+![image](https://user-images.githubusercontent.com/63423850/233840423-4616b501-ca0b-4509-869d-f9ad97aac311.png)
 
 ### Home page
-![image](https://user-images.githubusercontent.com/63423850/232205280-4c5f663d-11cf-422f-ab3f-1b8a73226735.png)
+![image](https://user-images.githubusercontent.com/63423850/233840174-15219908-230c-4f59-becd-9a77ed71fd60.png)
 
 ### Single Product page
-![image](https://user-images.githubusercontent.com/63423850/232205355-7b913515-0ad3-4a22-b41e-02c9155677a1.png)
+![image](https://user-images.githubusercontent.com/63423850/233840247-50f46c3d-fa96-4d79-b5ad-a893d1030ef1.png)
 
 ### All products page
-![image](https://user-images.githubusercontent.com/63423850/232205387-2ab44c02-2717-4078-9c63-2b29592c36eb.png)
+![image](https://user-images.githubusercontent.com/63423850/233840221-5137a765-3aaf-46aa-92dc-62e91cbf47b4.png)
+
+## Cart Page
+![image](https://user-images.githubusercontent.com/63423850/233840288-bf17cfda-7feb-4fa5-91a0-d5c1b9ab15de.png)
+
+## Product-Order Modal
+![image](https://user-images.githubusercontent.com/63423850/233840322-123ff682-45dd-4f80-8dc5-65e144579857.png)
+
 
